@@ -1,0 +1,3 @@
+MONGODB_URI=mongodb+srv:<add-something-here>like-mind-DB?retryWrites=true&w=majority
+MONGO_DB_NAME=DB
+JWT_SECRET=your-secret-key
